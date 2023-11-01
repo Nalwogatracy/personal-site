@@ -1,0 +1,75 @@
+header{
+    color: rgb(7, 66, 230);
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 4%;
+    font-size: x-large;
+
+}
+nav{background-color: black;
+    color: yellowgreen;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 10px;
+
+}
+nav ul li{
+    text-decoration: none;
+    display: inline;
+    padding: 20px;
+    text-decoration-style: none;
+    color: yellow;
+    font-size: x-large;
+    text-decoration-line: none;
+
+}
+nav ul li a{
+    text-decoration: none;
+    color: aliceblue;
+    font-size: larger;
+}
+nav ul li a:hover{background-color: rgb(240, 12, 12);
+
+}
+main{
+    margin-left: 5%;
+    margin-right: 5%;
+    display: flex;
+    height: 500px;
+    
+}
+aside{
+    float: right;
+
+    width: 50%;
+    display: flex;
+}
+section{
+
+    width: 50%;
+}
+.pic{
+    width: 100%;
+
+}
+footer{
+    margin-left: 5%;
+    margin-right: 5%;
+    font-size: xx-large;
+    color: rgb(5, 10, 9);
+
+}
+.galla1{
+
+    display: flex;
+    padding: 10px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.galla2{
+    float: right;
+ 
+    width: 20%;
+    height: 20%;
+    
+}
